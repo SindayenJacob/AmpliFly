@@ -5,6 +5,9 @@ Group members: Jacob Sindayen, Jeremiah Jacinto, Willard Songco
 ###Introduction:
 This program is a marketing app that plays, listens, shares, and buy music and playlists from the most epic famous hits to the best common underated songs of the date, and with the implementation of the data structures in class into the program, everybody can play their favorites, discover new tracks, and build the perfect collection.
 
+###Flowchart:
+![1](https://github.com/DLSU-Manila-LBYCP12/AmpliFly/blob/master/AmpliFly.png)
+
 ###Features:
 - Play on-demand java interface.
 - Cozy Login and Profile.
