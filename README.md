@@ -4,7 +4,7 @@ Group members: Jacob Sindayen, Jeremiah Jacinto, Willard Songco
 
 ###Objectives:
 
--	To create a project that applies the lesson learned in DISMATH
+-	To create a project that applies the lesson learned in DATASAL
 -	To create an application that can interest and entertain people while experience and learn from the game
 -	To be able to apply a unique concept that is unfamiliar or underated to today’s games
 -	To be able to construct the best data structure that will fit into the program
